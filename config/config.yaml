@@ -1,0 +1,3 @@
+project_code: s3-encryption-at-rest
+region: {{ environment_path.1 }}
+profile: default
